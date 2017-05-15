@@ -2,7 +2,7 @@
 This is a basic tftp server which holds files in memory.  
 
 
-##Methodology
+## Methodology
 
 I started by writing the request parsing function.  This allowed me to get more familiar with the protocol and build an understanding of lower-level operations.  As I wrote this function I realized the need for a struct to encapsulate the results.
 
